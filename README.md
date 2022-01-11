@@ -1,5 +1,5 @@
-# ASCII-art-selfie? Why not?
-## I want to live differently than I live but it turns out to live like I live.
+# I want to live differently than I live but it turns out to live like I live.
+## ASCII-art-selfie? Why not?
 ```sh
 #####################################88888888##888OOOOOOOOOO8O88888888888O8OOO8888888OOO8888888888######8888888888
 #####################################88888888#8888OOOOOOOOOO8888888888888O8888888#88OOO888888888888#####8888888888
